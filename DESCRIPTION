@@ -12,3 +12,5 @@ RoxygenNote: 7.2.3
 Imports: 
     cli,
     whoami
+URL: https://github.com/maelle/pockage
+BugReports: https://github.com/maelle/pockage/issues
